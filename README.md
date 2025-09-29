@@ -59,11 +59,11 @@ This is my **Data Mining mini project** (EC9560) where I developed machine learn
 ---
 
 ## 📅 Timeline
-09 Jul 2025 - Topic Selection & Project Plan
-16 Jul 2025 - Data Understanding & Exploration
-27 Aug 2025 - Data Preprocessing
-29 Aug 2025 - Feature Selection
-01 Sep – 10 Sep 2025 - Model Training & Evaluation
+-09 Jul 2025 - Topic Selection & Project Plan
+-16 Jul 2025 - Data Understanding & Exploration
+-27 Aug 2025 - Data Preprocessing
+-29 Aug 2025 - Feature Selection
+-01 Sep – 10 Sep 2025 - Model Training & Evaluation
 
 ---
 
